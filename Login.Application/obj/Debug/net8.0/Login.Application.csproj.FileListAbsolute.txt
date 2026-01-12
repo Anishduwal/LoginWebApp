@@ -1,0 +1,15 @@
+C:\Projects\Login\Login\Login.Application\bin\Debug\net8.0\Login.Application.deps.json
+C:\Projects\Login\Login\Login.Application\bin\Debug\net8.0\Login.Application.dll
+C:\Projects\Login\Login\Login.Application\bin\Debug\net8.0\Login.Application.pdb
+C:\Projects\Login\Login\Login.Application\bin\Debug\net8.0\Login.Domain.dll
+C:\Projects\Login\Login\Login.Application\bin\Debug\net8.0\Login.Domain.pdb
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.csproj.AssemblyReference.cache
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.AssemblyInfoInputs.cache
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.AssemblyInfo.cs
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Ap.2B818963.Up2Date
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.dll
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\refint\Login.Application.dll
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.pdb
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\ref\Login.Application.dll
