@@ -13,3 +13,4 @@ C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.dll
 C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\refint\Login.Application.dll
 C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.pdb
 C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\ref\Login.Application.dll
+C:\Projects\Login\Login\Login.Application\obj\Debug\net8.0\Login.Application.sourcelink.json

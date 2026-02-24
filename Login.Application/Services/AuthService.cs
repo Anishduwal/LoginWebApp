@@ -41,7 +41,7 @@ namespace Login.Application.Services
             {
                 Token = _jwtService.GenerateRefreshToken(),
                 UserId = user.Id,
-                ExpireDate = DateTime.UtcNow.AddHours(1)
+                ExpireDate = DateTime.UtcNow.AddMinutes(1)
             };
             await _refreshTokenRepository.SaveAsync(refreshToken);
 
@@ -85,7 +85,7 @@ namespace Login.Application.Services
             {
                 Token = _jwtService.GenerateRefreshToken(),
                 UserId = user.Id,
-                ExpireDate = DateTime.UtcNow.AddHours(1)
+                ExpireDate = DateTime.UtcNow.AddMinutes(2)
             };
 
             await _refreshTokenRepository.SaveAsync(newRefreshToken);

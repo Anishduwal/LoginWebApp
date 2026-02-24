@@ -17,3 +17,4 @@ C:\Projects\Login\Login\Login.Infrastructure\obj\Debug\net8.0\Login.Infrastructu
 C:\Projects\Login\Login\Login.Infrastructure\obj\Debug\net8.0\ref\Login.Infrastructure.dll
 C:\Projects\Login\Login\Login.Infrastructure\bin\Debug\net8.0\Login.Infrastructure.runtimeconfig.json
 C:\Projects\Login\Login\Login.Infrastructure\obj\Debug\net8.0\Login.Infrastructure.genruntimeconfig.cache
+C:\Projects\Login\Login\Login.Infrastructure\obj\Debug\net8.0\Login.Infrastructure.sourcelink.json

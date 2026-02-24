@@ -12,7 +12,6 @@ namespace Login.Domain.Entities
         public string Token { get; set; } = string.Empty;
         public int UserId { get; set; }
         public DateTime ExpireDate { get; set; }
-        public DateTime AbsoluteExpireDate { get; set; }
         public bool IsRevoked { get; set; }
         public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
     }

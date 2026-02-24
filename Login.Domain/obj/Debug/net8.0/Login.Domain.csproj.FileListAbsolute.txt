@@ -9,3 +9,4 @@ C:\Projects\Login\Login\Login.Domain\obj\Debug\net8.0\Login.Domain.dll
 C:\Projects\Login\Login\Login.Domain\obj\Debug\net8.0\refint\Login.Domain.dll
 C:\Projects\Login\Login\Login.Domain\obj\Debug\net8.0\Login.Domain.pdb
 C:\Projects\Login\Login\Login.Domain\obj\Debug\net8.0\ref\Login.Domain.dll
+C:\Projects\Login\Login\Login.Domain\obj\Debug\net8.0\Login.Domain.sourcelink.json
